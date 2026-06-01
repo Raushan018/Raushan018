@@ -1,81 +1,128 @@
-# Hi there 👋, I'm Raushan Kumar
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Raushan Kumar
 
-### 🚀 Software Developer | IoT Enthusiast | Computer Vision Explorer
+```bash
+> Initializing profile...
+> Loading developer data...
+> Access Granted ✅
+```
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Software+Developer;Frontend+Engineer;IoT+Enthusiast;Computer+Vision+Explorer;DSA+Problem+Solver" />
 
-## 👨‍💻 About Me
+---
 
-* 🎓 B.Tech in Electronics & Communication Engineering (2022–2026)
-* 💻 Passionate about Software Development and Problem Solving
-* 🌱 Currently learning Full Stack Development and System Design
-* 🤖 Interested in IoT, Computer Vision, and AI
-* 🏆 Solved 200+ DSA problems
-* 📍 Bihar, India
+## 🟢 SYSTEM INFO
 
-## 🛠️ Tech Stack
+```yaml
+Name: Raushan Kumar
+Location: Bihar, India
+Education: B.Tech ECE (2022-2026)
+Status: Building Cool Stuff 🚀
+Focus: Full Stack Development
+Experience: React | Node.js | MongoDB
+Current Mission: Crack SDE Roles
+```
 
-### Languages
+---
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+## ⚡ TECH ARSENAL
 
-### Frontend
+```text
+Frontend    ████████████░░░ 90%
+React.js    ████████████░░░ 90%
+JavaScript  ███████████░░░░ 85%
+Node.js     ██████████░░░░░ 80%
+MongoDB     ██████████░░░░░ 80%
+DSA         ███████████░░░░ 85%
+IoT         ██████████░░░░░ 80%
+```
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+---
 
-### Backend
+## 🔥 PROJECTS.exe
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+### 🚀 Smart Lift System
 
-### Database
+```bash
+ESP32 + OpenCV + Computer Vision
+→ Person Detection
+→ Smart Floor Selection
+→ Real-time Automation
+```
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+### 🤖 Resume Matcher AI
 
-### Tools
+```bash
+Match Resume ↔ Job Description
+ATS Analysis
+AI Based Recommendations
+```
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+### 👨‍💻 Collaborative Code Editor
 
-## 🚀 Featured Projects
+```bash
+Live Code Synchronization
+Real-time Chat
+Multi-user Editing
+Monaco Editor
+```
 
-### Smart Lift System
+---
 
-* ESP32 + OpenCV based intelligent lift automation
-* Real-time person detection and floor management
+## 🏆 ACHIEVEMENTS_UNLOCKED
 
-### Resume Matcher
+```text
+[✓] 200+ LeetCode Problems Solved
+[✓] Oracle AI Foundations Certified
+[✓] Patent Offer Received
+[✓] Hack4Bihar Participant
+[✓] Full Stack Projects Deployed
+```
 
-* AI-powered resume screening platform
-* Match resumes with job descriptions using NLP
+---
 
-### Collaborative Code Editor
+## 📊 GITHUB ANALYTICS
 
-* Real-time code collaboration
-* Multi-user editing and chat functionality
-* Monaco Editor integration
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
 
-## 📈 GitHub Stats
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=radical)
 
-![Raushan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+---
 
-## 🏆 Achievements
+## 🎯 CURRENT OBJECTIVES
 
-* 🥇 Oracle AI Foundations OCI 2025 Certified
-* 📜 Patent Offer Received
-* 💯 200+ DSA Problems Solved
-* 🚀 Participant - Hack 4 Bihar 2025
+```bash
+□ Master System Design
+□ Reach 500+ DSA Problems
+□ Land an SDE Role
+□ Contribute to Open Source
+■ Building Awesome Projects...
+```
 
-## 📫 Connect With Me
+---
 
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-* Email: [your.email@example.com](mailto:your.email@example.com)
+## 🌐 CONNECT.sh
 
-### ⭐ "Code. Build. Learn. Repeat."
+```bash
+LinkedIn  : linkedin.com/in/YOUR_LINKEDIN
+Email     : yourmail@gmail.com
+Portfolio : Coming Soon...
+```
+
+---
+
+<div align="center">
+
+```diff
++ while(alive){
++    eat();
++    code();
++    sleep();
++    repeat();
++ }
+```
+
+### ⚡ "Turning Coffee Into Code Since 2022"
+
+</div>
