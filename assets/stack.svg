@@ -1,8 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 360" role="img" aria-labelledby="title desc">
   <title id="title">Technology stack</title>
-  <rect width="900" height="220" rx="20" fill="#0b1110" stroke="#00ff41"/>
-  <text x="42" y="64" fill="#00ff41" font-family="monospace" font-size="28" font-weight="700">TECH STACK</text>
-  <text x="42" y="112" fill="#e8fff0" font-family="monospace" font-size="22">C++  •  JavaScript  •  React  •  Node.js</text>
-  <text x="42" y="152" fill="#e8fff0" font-family="monospace" font-size="22">MongoDB  •  Git  •  Linux  •  IoT</text>
-  <text x="42" y="192" fill="#7dff9b" font-family="monospace" font-size="18">Building reliable systems with modern tools.</text>
+  <desc id="desc">Technology stack including C++, JavaScript, React, Node.js, MongoDB, and IoT.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1"><stop stop-color="#070b16"/><stop offset="1" stop-color="#0c1730"/></linearGradient>
+    <style>
+      .bar { animation: grow 3s ease-out both; transform-origin: left; }
+      .bar2 { animation-delay: .35s; }.bar3 { animation-delay: .7s; }.bar4 { animation-delay: 1.05s; }
+      @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    </style>
+  </defs>
+  <rect width="1100" height="360" rx="26" fill="url(#bg)" stroke="#23365f"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="54" y="62" fill="#f4f7ff" font-size="28" font-weight="800">THE TOOLKIT</text>
+    <text x="54" y="91" fill="#7fa7ff" font-size="14" letter-spacing="2">TOOLS I USE TO SHIP</text>
+    <g fill="#d5e0f8" font-size="17">
+      <text x="54" y="144">C++  ·  JavaScript  ·  React</text>
+      <text x="54" y="181">Node.js  ·  Express  ·  MongoDB</text>
+      <text x="54" y="218">Git  ·  Linux  ·  OpenCV  ·  IoT</text>
+    </g>
+    <g transform="translate(560 121)">
+      <text y="0" fill="#9eb4dc" font-size="13">FRONTEND &amp; PRODUCT</text>
+      <rect y="13" width="450" height="7" rx="4" fill="#1b2c50"/><rect class="bar" y="13" width="405" height="7" rx="4" fill="#247bff"/>
+      <text y="68" fill="#9eb4dc" font-size="13">BACKEND &amp; SYSTEMS</text>
+      <rect y="81" width="450" height="7" rx="4" fill="#1b2c50"/><rect class="bar bar2" y="81" width="360" height="7" rx="4" fill="#247bff"/>
+      <text y="136" fill="#9eb4dc" font-size="13">PROBLEM SOLVING</text>
+      <rect y="149" width="450" height="7" rx="4" fill="#1b2c50"/><rect class="bar bar3" y="149" width="400" height="7" rx="4" fill="#ff354f"/>
+      <text y="204" fill="#9eb4dc" font-size="13">LEARNING VELOCITY</text>
+      <rect y="217" width="450" height="7" rx="4" fill="#1b2c50"/><rect class="bar bar4" y="217" width="430" height="7" rx="4" fill="#ff354f"/>
+    </g>
+  </g>
 </svg>

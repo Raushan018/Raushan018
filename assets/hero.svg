@@ -1,16 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">GitHub profile hero</title>
-  <desc id="desc">A dark green terminal-inspired banner.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Raushan Kumar — software developer</title>
+  <desc id="desc">A futuristic portfolio introduction in navy, electric blue, and crimson.</desc>
   <defs>
-    <linearGradient id="background" x1="0" x2="1">
-      <stop offset="0" stop-color="#050505"/>
-      <stop offset=".5" stop-color="#102a18"/>
-      <stop offset="1" stop-color="#050505"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#070b16"/>
+      <stop offset=".58" stop-color="#0b1530"/>
+      <stop offset="1" stop-color="#180e1c"/>
     </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop stop-color="#247bff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#247bff"/>
+      <stop offset="1" stop-color="#ff354f" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="12"/></filter>
+    <style>
+      .pulse { animation: pulse 4s ease-in-out infinite; transform-origin: center; }
+      .float { animation: float 6s ease-in-out infinite; }
+      .scan { animation: scan 5s linear infinite; }
+      @keyframes pulse { 50% { opacity: .42; transform: scale(1.12); } }
+      @keyframes float { 50% { transform: translateY(-8px); } }
+      @keyframes scan { from { transform: translateX(-420px); } to { transform: translateX(1200px); } }
+    </style>
   </defs>
-  <rect width="1200" height="320" rx="24" fill="url(#background)"/>
-  <path d="M0 258h1200" stroke="#00ff41" stroke-opacity=".35"/>
-  <text x="70" y="132" fill="#00ff41" font-family="monospace" font-size="56" font-weight="700">RAUSHAN KUMAR</text>
-  <text x="74" y="184" fill="#d7ffe1" font-family="monospace" font-size="24">software engineer • builder • problem solver</text>
-  <text x="74" y="232" fill="#00ff41" font-family="monospace" font-size="20">$ ./build-the-future</text>
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <circle class="pulse" cx="1020" cy="95" r="116" fill="#247bff" opacity=".18" filter="url(#glow)"/>
+  <circle class="pulse" cx="1090" cy="315" r="88" fill="#ff354f" opacity=".12" filter="url(#glow)" style="animation-delay:1s"/>
+  <path d="M0 350H1200" stroke="#243454"/>
+  <path d="M0 350H520" stroke="url(#line)" stroke-width="3"/>
+  <path class="scan" d="M0 350h240" stroke="#fff" stroke-opacity=".24" stroke-width="2"/>
+  <g class="float" font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="82" fill="#7fa7ff" font-size="14" font-weight="700" letter-spacing="4">RAUSHAN018 / PROFILE</text>
+    <text x="68" y="184" fill="#f4f7ff" font-size="58" font-weight="800">RAUSHAN KUMAR</text>
+    <text x="72" y="231" fill="#b7c7e8" font-size="23">Software developer · product builder · problem solver</text>
+    <text x="72" y="298" fill="#247bff" font-size="18" font-weight="700" letter-spacing="2">BUILD WITH INTENT</text>
+    <text x="72" y="330" fill="#ff7080" font-size="16">Frontend · full stack · IoT · computer vision</text>
+  </g>
+  <g transform="translate(930 168)" fill="none" stroke="#247bff" stroke-width="2" opacity=".75">
+    <rect width="156" height="112" rx="16"/>
+    <path d="M18 30h120M28 58l16 16 26-30M28 92h54" stroke="#ff354f"/>
+    <circle cx="126" cy="87" r="10"/>
+  </g>
 </svg>

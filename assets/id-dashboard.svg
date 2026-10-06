@@ -1,8 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" role="img" aria-labelledby="title">
-  <title id="title">Profile dashboard</title>
-  <rect width="900" height="220" rx="20" fill="#0b1110" stroke="#00ff41"/>
-  <text x="42" y="64" fill="#00ff41" font-family="monospace" font-size="28" font-weight="700">PROFILE DASHBOARD</text>
-  <text x="42" y="112" fill="#e8fff0" font-family="monospace" font-size="22">Projects deployed    10+</text>
-  <text x="42" y="150" fill="#e8fff0" font-family="monospace" font-size="22">Problems solved      200+</text>
-  <text x="42" y="188" fill="#7dff9b" font-family="monospace" font-size="18">Status: online and learning</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 410" role="img" aria-labelledby="title desc">
+  <title id="title">Raushan Kumar profile dashboard</title>
+  <desc id="desc">Illustrated profile character beside a dashboard of developer focus areas.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#070b16"/><stop offset="1" stop-color="#121a32"/></linearGradient>
+    <filter id="shadow"><feGaussianBlur stdDeviation="10"/></filter>
+    <style>
+      .float { animation: float 5s ease-in-out infinite; }
+      .load { animation: load 2.4s ease-out both; transform-origin: left; }
+      @keyframes float { 50% { transform: translateY(-7px); } }
+      @keyframes load { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    </style>
+  </defs>
+  <rect width="1100" height="410" rx="26" fill="url(#bg)" stroke="#23365f"/>
+  <ellipse cx="226" cy="370" rx="170" ry="18" fill="#247bff" opacity=".16" filter="url(#shadow)"/>
+  <g class="float">
+    <image href="id.png" x="52" y="20" width="330" height="380" preserveAspectRatio="xMidYMax meet"/>
+  </g>
+  <g transform="translate(455 48)" font-family="Arial, Helvetica, sans-serif">
+    <text fill="#7fa7ff" font-size="14" font-weight="700" letter-spacing="3">PROFILE // DASHBOARD</text>
+    <text y="50" fill="#f4f7ff" font-size="30" font-weight="800">Building the next version.</text>
+    <text y="82" fill="#9eb4dc" font-size="16">A quick read on what keeps me moving.</text>
+    <g transform="translate(0 124)">
+      <rect width="260" height="92" rx="15" fill="#0b1429" stroke="#23365f"/>
+      <text x="20" y="30" fill="#247bff" font-size="13" font-weight="700">FOCUS</text>
+      <text x="20" y="59" fill="#f4f7ff" font-size="20" font-weight="700">Full-stack craft</text>
+      <text x="20" y="80" fill="#9eb4dc" font-size="13">from interface to API</text>
+    </g>
+    <g transform="translate(282 124)">
+      <rect width="260" height="92" rx="15" fill="#0b1429" stroke="#23365f"/>
+      <text x="20" y="30" fill="#ff354f" font-size="13" font-weight="700">SIGNAL</text>
+      <text x="20" y="59" fill="#f4f7ff" font-size="20" font-weight="700">200+ problems</text>
+      <text x="20" y="80" fill="#9eb4dc" font-size="13">and counting</text>
+    </g>
+    <text y="268" fill="#9eb4dc" font-size="13">CURRENT MOMENTUM</text>
+    <rect y="281" width="542" height="8" rx="4" fill="#1b2c50"/>
+    <rect class="load" y="281" width="410" height="8" rx="4" fill="url(#momentum)"/>
+  </g>
+  <defs><linearGradient id="momentum"><stop stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient></defs>
 </svg>

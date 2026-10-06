@@ -1,35 +1,32 @@
-# GitHub Profile
-
-## Hero
+# Raushan Kumar
 
 <p align="center">
-  <img src="./assets/hero.svg" alt="GitHub profile hero banner">
+  <img src="./assets/hero.svg" alt="Raushan Kumar — software developer and builder">
 </p>
 
-## About Life
+## About life
 
 <p align="center">
-  <img src="./assets/about-life.svg" alt="About life">
+  <img src="./assets/about-life.svg" alt="About Raushan Kumar, his interests, and goals">
 </p>
 
-## Tech Stack
+## Technology stack
 
 <p align="center">
-  <img src="./assets/stack.svg" alt="Technology stack">
+  <img src="./assets/stack.svg" alt="Technology stack and skills">
 </p>
 
-## Profile Dashboard
+## Profile dashboard
 
 <p align="center">
-  <img src="./assets/id-dashboard.svg" alt="Profile dashboard">
+  <img src="./assets/id-dashboard.svg" alt="Raushan Kumar profile dashboard">
 </p>
 
 ## Connect
 
 <p align="center">
-  <img src="./assets/connect.svg" alt="Connect">
+  <img src="./assets/connect.svg" alt="Connect with Raushan Kumar on GitHub">
 </p>
 
-Additional character assets:
-- [ID image](./assets/id.png)
-- [Right-pointing icon](./assets/right_pointing.png)
+> Built with a deep navy, electric blue, and crimson visual system.  
+> GitHub: [@Raushan018](https://github.com/Raushan018)

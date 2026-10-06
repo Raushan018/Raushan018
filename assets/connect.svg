@@ -1,7 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" role="img" aria-labelledby="title">
-  <title id="title">Connect</title>
-  <rect width="900" height="220" rx="20" fill="#0b1110" stroke="#00ff41"/>
-  <text x="42" y="74" fill="#00ff41" font-family="monospace" font-size="30" font-weight="700">LET'S CONNECT</text>
-  <text x="42" y="128" fill="#e8fff0" font-family="monospace" font-size="22">Open to collaboration, ideas, and opportunities.</text>
-  <text x="42" y="178" fill="#7dff9b" font-family="monospace" font-size="19">GitHub  •  LinkedIn  •  Email</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 330" role="img" aria-labelledby="title desc">
+  <title id="title">Connect with Raushan Kumar</title>
+  <desc id="desc">A contact panel with a pointing illustrated character and GitHub link.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1"><stop stop-color="#070b16"/><stop offset="1" stop-color="#1a1020"/></linearGradient>
+    <style>
+      .wave { animation: wave 3.5s ease-in-out infinite; transform-origin: 78% 60%; }
+      @keyframes wave { 50% { transform: translateX(6px); } }
+    </style>
+  </defs>
+  <rect width="1100" height="330" rx="26" fill="url(#bg)" stroke="#23365f"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="58" y="72" fill="#247bff" font-size="14" font-weight="700" letter-spacing="3">OPEN CHANNEL</text>
+    <text x="58" y="126" fill="#f4f7ff" font-size="36" font-weight="800">Have an idea worth building?</text>
+    <text x="58" y="166" fill="#b7c7e8" font-size="18">Find me on GitHub and let’s make something useful.</text>
+    <a href="https://github.com/Raushan018">
+      <rect x="58" y="211" width="232" height="55" rx="12" fill="#247bff"/>
+      <text x="88" y="246" fill="#fff" font-size="16" font-weight="700">GITHUB / RAUSHAN018</text>
+    </a>
+    <text x="58" y="298" fill="#ff7080" font-size="13">No placeholder links. Just a direct line to the work.</text>
+  </g>
+  <g class="wave"><image href="right_pointing.png" x="720" y="-8" width="310" height="375" preserveAspectRatio="xMidYMax meet"/></g>
 </svg>
