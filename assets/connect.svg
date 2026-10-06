@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" role="img" aria-labelledby="title">
+  <title id="title">Connect</title>
+  <rect width="900" height="220" rx="20" fill="#0b1110" stroke="#00ff41"/>
+  <text x="42" y="74" fill="#00ff41" font-family="monospace" font-size="30" font-weight="700">LET'S CONNECT</text>
+  <text x="42" y="128" fill="#e8fff0" font-family="monospace" font-size="22">Open to collaboration, ideas, and opportunities.</text>
+  <text x="42" y="178" fill="#7dff9b" font-family="monospace" font-size="19">GitHub  •  LinkedIn  •  Email</text>
+</svg>

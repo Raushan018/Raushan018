@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" role="img" aria-labelledby="title">
+  <title id="title">Profile dashboard</title>
+  <rect width="900" height="220" rx="20" fill="#0b1110" stroke="#00ff41"/>
+  <text x="42" y="64" fill="#00ff41" font-family="monospace" font-size="28" font-weight="700">PROFILE DASHBOARD</text>
+  <text x="42" y="112" fill="#e8fff0" font-family="monospace" font-size="22">Projects deployed    10+</text>
+  <text x="42" y="150" fill="#e8fff0" font-family="monospace" font-size="22">Problems solved      200+</text>
+  <text x="42" y="188" fill="#7dff9b" font-family="monospace" font-size="18">Status: online and learning</text>
+</svg>

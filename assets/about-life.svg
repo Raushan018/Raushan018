@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" role="img" aria-labelledby="title">
+  <title id="title">About life</title>
+  <rect width="900" height="220" rx="20" fill="#0b1110" stroke="#00ff41"/>
+  <text x="42" y="68" fill="#00ff41" font-family="monospace" font-size="28" font-weight="700">$ whoami</text>
+  <text x="42" y="116" fill="#e8fff0" font-family="monospace" font-size="21">Software developer passionate about</text>
+  <text x="42" y="150" fill="#e8fff0" font-family="monospace" font-size="21">turning ideas into useful products.</text>
+  <text x="42" y="190" fill="#7dff9b" font-family="monospace" font-size="18">Learn • Build • Deploy • Improve</text>
+</svg>

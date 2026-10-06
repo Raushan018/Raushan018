@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub profile hero</title>
+  <desc id="desc">A dark green terminal-inspired banner.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset=".5" stop-color="#102a18"/>
+      <stop offset="1" stop-color="#050505"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#background)"/>
+  <path d="M0 258h1200" stroke="#00ff41" stroke-opacity=".35"/>
+  <text x="70" y="132" fill="#00ff41" font-family="monospace" font-size="56" font-weight="700">RAUSHAN KUMAR</text>
+  <text x="74" y="184" fill="#d7ffe1" font-family="monospace" font-size="24">software engineer • builder • problem solver</text>
+  <text x="74" y="232" fill="#00ff41" font-family="monospace" font-size="20">$ ./build-the-future</text>
+</svg>
